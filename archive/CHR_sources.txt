@@ -1,0 +1,2 @@
+cars: https://www.kaggle.com/prondeau/the-car-connection-picture-dataset
+planes: https://www.kaggle.com/eabdul/flying-vehicles
